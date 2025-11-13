@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Don&#39;t click on this link!</title>
-  <link rel="stylesheet" href="/static/css/style.css">
+  <link rel="stylesheet" href="static/css/style.css">
 </head>
 <body>
   <a href="/">← Back to Articles</a>
