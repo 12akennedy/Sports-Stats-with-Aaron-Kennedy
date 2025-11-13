@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sports Analysis by Aaron Kennedy</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <h1>Sports Stats with Aaron Kennedy</h1>
+  <ul>
+  
+    <li>
+  
+    <a href="https://www.mwcconnection.com/peak-perspective/73937/peak-perspective-the-changing-economics-of-college-sports" target="_blank">Changing Economics of College Sports</a>
+    <div class="article-date">2025-10-25</div>
+  
+  </li>
+  
+    <li>
+  
+    <a href="https://www.mwcconnection.com/2024/9/11/24212418/mountain-west-quarterbacks-2024-football-season-mikey-keene-braden-fowler-nicolosi-brayden-schager" target="_blank">Quarterback Play in the Mountain West</a>
+    <div class="article-date">2024-09-11</div>
+  
+  </li>
+  
+    <li>
+  
+    <a href="/article/article1.md">Don&#39;t click on this link!</a>
+    <div class="article-date">2023-10-12</div>
+  
+  </li>
+  
+</ul>
+</body>
+</html>
