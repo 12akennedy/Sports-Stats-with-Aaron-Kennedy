@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Don&#39;t click on this link!</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <a href="/">← Back to Articles</a>
+
+  <!-- Title and date -->
+  <h2>Don&#39;t click on this link!</h2>
+  <div class="article-date"></div>
+
+  <!-- Article content -->
+  <div>
+    <p>Don't click on this link!</p>
+<p>You're a rebel; I like you</p>
+  </div>
+</body>
+</html>
